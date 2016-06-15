@@ -15,7 +15,7 @@ Adding the tools to your path is optional but recommended.
 ### JTAG Software
 If your debugger is supported by OpenOCD: download, compile and install the latest version. After downloading, run `./configure` then `make` and `sudo make install`
 
-For JLink the SEGGER guys provide a pretty good suite of linux tools on their website, (available as debs) (https://www.segger.com/jlink-software.html)[https://www.segger.com/jlink-software.html].
+For JLink the SEGGER guys provide a pretty good suite of linux tools on their website, (available as debs) https://www.segger.com/jlink-software.html.
 
 ### STM32CubeMX
 Not strictly required, but strongly recommended.
@@ -32,4 +32,4 @@ This is where the magic happens.
 
 It provides all the cmake module magic that makes compiling STM32 applications using CMake possible.
 
-My fork of it is available here: (https://github.com/rohbotics/stm32-cmake)[https://github.com/rohbotics/stm32-cmake]
+My fork of it is available here: https://github.com/rohbotics/stm32-cmake
